@@ -15,3 +15,6 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 ## Cambios
 - Esta es la rama develop
+
+##
+- Cambio desde jira
